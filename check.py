@@ -1,5 +1,4 @@
-print("Helloos there")
-
+print("Addition Programme")
 sum = 0
 for i in range(1,10):
 	sum = sum + i
